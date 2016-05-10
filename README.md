@@ -1,6 +1,6 @@
-# Homework 2 - *BTTH2-WEBCHAT*
+# *ĐỒ ÁN UDPT*
 
-**BTTH-WEBCHAT** Đây là trang web cho phép người dùng gửi tin nhắn. Thời gian nộp: 0h ngày 27/4.
+**Web**
 
 Danh sách sinh viên:
 
